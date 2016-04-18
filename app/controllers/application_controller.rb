@@ -1,6 +1,6 @@
 class ApplicationController < ActionController::Base
   def hello
-  	render text: "Hello World"
+  	render text: "https://limitless-cove-36404.herokuapp.com/"
   end
 
   # Prevent CSRF attacks by raising an exception.
